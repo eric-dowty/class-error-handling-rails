@@ -1,3 +1,5 @@
+slides - http://itechdom.github.io/class-rails-handling-errors-failures/#/
+
 ## Learning Goals
 
 * Learn How to handle errors in Rails
