@@ -17,6 +17,6 @@ group :development, :test, :staging do
   gem 'spring'
 end
 
-group :staging do
-  gem ''
+group :production, :staging do
+  #This is where gems for staging and production go
 end
